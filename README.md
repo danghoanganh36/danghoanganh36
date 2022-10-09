@@ -3,10 +3,10 @@
 ```diff
 hi, im hoang anh 🔮.
 
-@@advanced programming student.@@
+@@software engineer student.@@
 + Living in Ho Chi Minh city, Vietnam.
 - 20 years old
-! Student of FPT University, soft engineer
+! Student at FPT University
 ```
 <br>
 <div align="left">
