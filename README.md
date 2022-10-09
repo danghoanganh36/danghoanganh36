@@ -7,8 +7,22 @@ hi, im hoang anh 🔮.
 + Living in Ho Chi Minh city, Vietnam.
 - 20 years old
 ! Student of FPT University, soft engineer
-# 💬 Programming Languages: Java, HTML5, CSS3, JavaScript
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="48" height="48"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="48" height="48"/></p>
 ```
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/%20Skills%20-Programming%20languages-lightgrey"/>
+</div>
+<p align="center">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="48" height="48"/> 
+<img src="https://boosted.orange.com/v4-alpha/assets/brand/bootstrap-solid.svg" alt="bootstrap" width="48" height="48"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyU99B0-3pGk4P-yGWDIc6OQ0awn56cadjZUVfy9Li2HrFhOU5_s1zHo8LYohsucyzqEQ&usqp=CAU" alt="css3" width="48" height="48"/> 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkRUGXR_pLaNtbB7Uw9fKjJBWu42VCTQHy-3pAvBp1vC9yiVdH602-e7mRrLDCkKyojKg&usqp=CAU" alt="html5" width="48" height="48"/> 
+<img src="https://icon-library.com/images/java-icon-png/java-icon-png-16.jpg" alt="java" width="48" height="48"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="48" height="48"/> 
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="48" height="48"/> 
+<img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="mysql" width="48" height="48"/> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="48" height="48"/> 
+<!-- <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" width="48" height="48"/> -->
+</p>
 ------
 [danghoanganh](https://github.com/danghoanganh36)
