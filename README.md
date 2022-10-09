@@ -9,7 +9,7 @@ hi, im hoang anh 🔮.
 ! Student of FPT University, soft engineer
 ```
 <br>
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/%20Skills%20-Programming%20languages-lightgrey"/>
 </div>
 <p align="center">
