@@ -3,10 +3,9 @@
 ```diff
 hi, im hoang anh 🔮.
 
-@@software engineer student.@@
+@@software engineer.@@
 + Living in Ho Chi Minh city, Vietnam.
-- 20 years old
-! Student at FPT University
+- 22 years old
 ```
 <br>
 <div align="left">
