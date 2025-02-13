@@ -8,9 +8,9 @@ hi, im hoang anh 🔮.
 - 22 years old
 ```
 <br>
-<div align="left">
+<!-- <div align="left">
 <img src="https://img.shields.io/badge/%20Skills%20-Programming%20languages-lightgrey"/>
-</div>
+</div> -->
 <p align="center">
 <!-- <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="48" height="48"/> 
 <img src="https://boosted.orange.com/v4-alpha/assets/brand/bootstrap-solid.svg" alt="bootstrap" width="48" height="48"/> 
